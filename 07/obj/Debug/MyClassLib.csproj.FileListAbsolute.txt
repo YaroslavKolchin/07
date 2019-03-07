@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\шаг\07\bin\Debug\MyClassLib.dll
+C:\Users\User\Desktop\шаг\07\bin\Debug\MyClassLib.pdb
+C:\Users\User\Desktop\шаг\07\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\шаг\07\obj\Debug\MyClassLib.dll
+C:\Users\User\Desktop\шаг\07\obj\Debug\MyClassLib.pdb
